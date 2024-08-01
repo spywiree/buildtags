@@ -7,4 +7,3 @@ Install:
 ```
 go get github.com/spywiree/buildtags
 ```
-
