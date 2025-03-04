@@ -1,3 +1,3 @@
 module github.com/spywiree/buildtags
 
-go 1.24.0
+go 1.24.1
